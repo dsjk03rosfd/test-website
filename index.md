@@ -5,4 +5,4 @@ This is a description of a test webpage.
 
 Test 123 11:55am
 
-[About page](about.md)
+[About page](about)
