@@ -1,7 +1,21 @@
 description: "This webpage is a test of using Jekyll to create webspaces in Github, which can do this automagically!"
 email: "test+email@gmail.com"
 github: "https://github.com/swcarpentry.org"
-    
+
+team_members:
+  -
+    name: "Sarah Becker"
+    role: "project lead"
+    start_date: "2016-02-01"
+  -
+    name: "Jane Smith"
+    role: maintainer
+    start_date: "2018-03-15"
+  -
+    name: "Albert Hamilton"
+    role: editor
+    start_date: "2017-12-01"
+
 collections:
   blogposts:
     output: true
