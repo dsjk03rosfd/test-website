@@ -4,9 +4,9 @@ github: "https://github.com/swcarpentry.org"
 
 team_members:
   -
-    name: "Sarah Becker"
+    name: "Tom Cat"
     role: "project lead"
-    start_date: "2016-02-01"
+    start_date: "2020-10-01"
   -
     name: "Jane Smith"
     role: maintainer
@@ -15,6 +15,10 @@ team_members:
     name: "Albert Hamilton"
     role: editor
     start_date: "2017-12-01"
+  -
+    name: "Alice Dauncey"
+    role: "developer"
+    start_date: "2020-09-15"
 
 collections:
   blogposts:
