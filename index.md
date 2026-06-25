@@ -1,6 +1,7 @@
 ---
 layout: home
 lesson-example: "https://carpentries.github.io/lesson-example/"
+<!-- the lesson-example is a local variable to refer to later in this page -->
 ---
 
 # Building Websites in GitHub
