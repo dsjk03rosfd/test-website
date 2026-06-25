@@ -3,7 +3,7 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 <!-- the lesson-example is a local variable to refer to later in this page -->
 ---
 
-{% incldue navigation.html %}
+{% include navigation.html %}
 
 # Building Websites in GitHub
 
