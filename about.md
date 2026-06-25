@@ -1,8 +1,3 @@
----
-layout: default
-title: About
----
-
 {% include navigation.html }
 
 ## Project
