@@ -1,4 +1,4 @@
-{% include navigation.html }
+{% include navigation.html %}
 
 ## Project
 
@@ -14,4 +14,4 @@ You can site the projact as:
 
 > *The Carpentries 2019 Annual Report. Zenodo. https://doi.org/10.5281/zenodo.3840372*
 
-{% include footer.html }
+{% include footer.html %}
