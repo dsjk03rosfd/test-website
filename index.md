@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: "Building a Website with Jekyll in GitHub"
 lesson-example: "https://carpentries.github.io/lesson-example/"
 ---
