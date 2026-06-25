@@ -2,7 +2,7 @@
 layout: default
 lesson-example: "https://carpentries.github.io/lesson-example/"
 <!-- the lesson-example is a local variable to refer to later in this page -->
-title: Building a Website with Jekyll in GitHub
+title: "Building a Website with Jekyll in GitHub"
 ---
 
 # Description
