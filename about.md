@@ -25,3 +25,5 @@ The following people are members of our research team:
 You can site the projact as:
 
 > *The Carpentries 2019 Annual Report. Zenodo. https://doi.org/10.5281/zenodo.3840372*
+
+{% include footer.html }
